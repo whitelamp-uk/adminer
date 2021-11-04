@@ -1,2 +1,3 @@
 # adminer
-Adminer plug-ins
+MARKED FOR DELETION
+MOVED TO whitelsmp-adminer
