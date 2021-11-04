@@ -1,0 +1,2 @@
+# adminer
+Adminer plug-ins
